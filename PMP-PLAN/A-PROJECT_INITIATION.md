@@ -8,7 +8,7 @@
 <p align="justify">These features can help to get a list of appropriate music from the popular music libraries based on music that has been heard previously. This makes the recommender system play an important role in maintaining the streaming music business. Music recommendations are done by looking for similarities from one music to another or by giving preference from one user to another. </p>
 <br/>
 
-### Project Summary
+### Project Objective
 <p align="justify">The main objective of our music recommendation system is to provide suggestions to the users that fit the user's preferences. The analysis of the facial expression/user emotion may lead to understanding the current emotional or mental state of the user. </p>
 <br/>
 
