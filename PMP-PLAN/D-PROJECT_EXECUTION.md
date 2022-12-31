@@ -9,4 +9,6 @@
     from scipy.sparse import csr_matrix
     
 #### Step 2: Data Preparation 
-<p align="justify">We will use a public <a href="https://millionsongdataset.com/">Million Song Dataset</a> that contains information about popular tracks. First, let's import the necessary libraries into our Google Collaboratory Notebook.</p>
+<p align="justify">We will use a public 
+    <a href="http://millionsongdataset.com/" rel="nofollow"><strong>Million Song Dataset</strong></a> 
+    that contains information about popular tracks. First, let's import the necessary libraries into our Google Collaboratory Notebook.</p>
