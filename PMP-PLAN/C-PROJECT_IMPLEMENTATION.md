@@ -24,10 +24,26 @@ Our group use python programming language to train the intelligent module in rec
   <tr>
     <th>Task</th>
     <th>Estimated Costs</th>
-    <th>Notes</th>
   </tr>
   <tr>
-    <td></td>
+    <td>Analysis and raw</td>
+    <td>$1,000</td>
+  </tr>
+  <tr>
+    <td>PROTOTYPE IMPLEMENTATION</td>
+    <td>$5,000</td>
+  </tr>
+  <tr>
+    <td>Design and Development</td>
+    <td>$10,000</td>
+  </tr>
+  <tr>
+    <td>Testing</td>
+    <td>$2,500</td>
+  </tr>
+  <tr>
+    <td>Upgradation and Maintenance</td>
+    <td>$2,500</td>
   </tr>
 </table>
 
