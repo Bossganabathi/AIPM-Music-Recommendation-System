@@ -27,23 +27,27 @@ Our group use python programming language to train the intelligent module in rec
   </tr>
   <tr>
     <td>Analysis and raw</td>
-    <td>$1,000</td>
+    <td align="right">1,000</td>
   </tr>
   <tr>
-    <td>PROTOTYPE IMPLEMENTATION</td>
-    <td>$5,000</td>
+    <td>Prototyping</td>
+    <td align="right">5,000</td>
   </tr>
   <tr>
     <td>Design and Development</td>
-    <td>$10,000</td>
+    <td align="right">10,000</td>
   </tr>
   <tr>
     <td>Testing</td>
-    <td>$2,500</td>
+    <td align="right">2,500</td>
   </tr>
   <tr>
     <td>Upgradation and Maintenance</td>
-    <td>$2,500</td>
+    <td align="right">2,500</td>
+  </tr>
+  <tr>
+    <td align="right">TOTAL ESTIMATION</td>
+    <td align="right">21,000</td>
   </tr>
 </table>
 
