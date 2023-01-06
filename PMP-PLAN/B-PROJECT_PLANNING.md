@@ -13,3 +13,8 @@ In order to define and control what work is or is not included in music recommen
 <br/>
 
 ### Risk Identification Chart (Quality, Cost, Time)
+<p>
+Quality
+In every project must have the quality management to monitor and maintain the quality of the product. Its does not matter how good marketing or looks nice, the quality of a product must satisfy the customer. Quality is more important aspect compared to any other aspects. In every company ther is one team called project quality management to measure and continuesly monitor quality of the product. If the quality of the product failed then the product can not sustain in market. People or customer no more interest to use the product. 
+
+</p>
